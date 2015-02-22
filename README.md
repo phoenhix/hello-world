@@ -1,7 +1,11 @@
 # hello-world
 My first GItHub Rep
 
-First Intructions
+Intructions
 -----------------
 
+First
 Say thank you when you get here
+
+Second
+Collaborate
